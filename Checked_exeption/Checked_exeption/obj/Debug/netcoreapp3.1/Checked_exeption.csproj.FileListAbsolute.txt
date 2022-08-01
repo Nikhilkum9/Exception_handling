@@ -1,0 +1,14 @@
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\bin\Debug\netcoreapp3.1\Checked_exeption.exe
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\bin\Debug\netcoreapp3.1\Checked_exeption.deps.json
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\bin\Debug\netcoreapp3.1\Checked_exeption.runtimeconfig.json
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\bin\Debug\netcoreapp3.1\Checked_exeption.runtimeconfig.dev.json
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\bin\Debug\netcoreapp3.1\Checked_exeption.dll
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\bin\Debug\netcoreapp3.1\Checked_exeption.pdb
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\obj\Debug\netcoreapp3.1\Checked_exeption.csproj.AssemblyReference.cache
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\obj\Debug\netcoreapp3.1\Checked_exeption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\obj\Debug\netcoreapp3.1\Checked_exeption.AssemblyInfoInputs.cache
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\obj\Debug\netcoreapp3.1\Checked_exeption.AssemblyInfo.cs
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\obj\Debug\netcoreapp3.1\Checked_exeption.csproj.CoreCompileInputs.cache
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\obj\Debug\netcoreapp3.1\Checked_exeption.dll
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\obj\Debug\netcoreapp3.1\Checked_exeption.pdb
+C:\Users\nikku\source\repos\Checked_exeption\Checked_exeption\obj\Debug\netcoreapp3.1\Checked_exeption.genruntimeconfig.cache
