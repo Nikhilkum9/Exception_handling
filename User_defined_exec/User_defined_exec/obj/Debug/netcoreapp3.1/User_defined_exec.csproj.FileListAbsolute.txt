@@ -1,0 +1,14 @@
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\bin\Debug\netcoreapp3.1\User_defined_exec.exe
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\bin\Debug\netcoreapp3.1\User_defined_exec.deps.json
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\bin\Debug\netcoreapp3.1\User_defined_exec.runtimeconfig.json
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\bin\Debug\netcoreapp3.1\User_defined_exec.runtimeconfig.dev.json
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\bin\Debug\netcoreapp3.1\User_defined_exec.dll
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\bin\Debug\netcoreapp3.1\User_defined_exec.pdb
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\obj\Debug\netcoreapp3.1\User_defined_exec.csproj.AssemblyReference.cache
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\obj\Debug\netcoreapp3.1\User_defined_exec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\obj\Debug\netcoreapp3.1\User_defined_exec.AssemblyInfoInputs.cache
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\obj\Debug\netcoreapp3.1\User_defined_exec.AssemblyInfo.cs
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\obj\Debug\netcoreapp3.1\User_defined_exec.csproj.CoreCompileInputs.cache
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\obj\Debug\netcoreapp3.1\User_defined_exec.dll
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\obj\Debug\netcoreapp3.1\User_defined_exec.pdb
+C:\Users\nikku\source\repos\User_defined_exec\User_defined_exec\obj\Debug\netcoreapp3.1\User_defined_exec.genruntimeconfig.cache
