@@ -1,0 +1,14 @@
+C:\Users\nikku\source\repos\System_Exception\System_Exception\bin\Debug\netcoreapp3.1\System_Exception.exe
+C:\Users\nikku\source\repos\System_Exception\System_Exception\bin\Debug\netcoreapp3.1\System_Exception.deps.json
+C:\Users\nikku\source\repos\System_Exception\System_Exception\bin\Debug\netcoreapp3.1\System_Exception.runtimeconfig.json
+C:\Users\nikku\source\repos\System_Exception\System_Exception\bin\Debug\netcoreapp3.1\System_Exception.runtimeconfig.dev.json
+C:\Users\nikku\source\repos\System_Exception\System_Exception\bin\Debug\netcoreapp3.1\System_Exception.dll
+C:\Users\nikku\source\repos\System_Exception\System_Exception\bin\Debug\netcoreapp3.1\System_Exception.pdb
+C:\Users\nikku\source\repos\System_Exception\System_Exception\obj\Debug\netcoreapp3.1\System_Exception.csproj.AssemblyReference.cache
+C:\Users\nikku\source\repos\System_Exception\System_Exception\obj\Debug\netcoreapp3.1\System_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikku\source\repos\System_Exception\System_Exception\obj\Debug\netcoreapp3.1\System_Exception.AssemblyInfoInputs.cache
+C:\Users\nikku\source\repos\System_Exception\System_Exception\obj\Debug\netcoreapp3.1\System_Exception.AssemblyInfo.cs
+C:\Users\nikku\source\repos\System_Exception\System_Exception\obj\Debug\netcoreapp3.1\System_Exception.csproj.CoreCompileInputs.cache
+C:\Users\nikku\source\repos\System_Exception\System_Exception\obj\Debug\netcoreapp3.1\System_Exception.dll
+C:\Users\nikku\source\repos\System_Exception\System_Exception\obj\Debug\netcoreapp3.1\System_Exception.pdb
+C:\Users\nikku\source\repos\System_Exception\System_Exception\obj\Debug\netcoreapp3.1\System_Exception.genruntimeconfig.cache
